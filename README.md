@@ -1,6 +1,6 @@
 # Landingpage-LaslesVPN
 
-## Used:
+## Used
 - Flexbox
 - SCSS
 - BEM
